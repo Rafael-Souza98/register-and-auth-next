@@ -1,0 +1,40 @@
+
+.Content {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.LabelRoot {
+  font-size: 12px;
+  font-weight: 500;
+  justify-content: space-around;
+  margin-top: 1em;
+  
+}
+
+.InputLabel {
+  width: 15vw;
+  border-radius: 4px;
+  border-color: #a0a0a0;
+  height: 5vh;
+  
+}
+
+
+.ButtonDiv {
+  padding-top: 2em;
+}
+
+.Button {
+  width: 15vw;
+  height: 5vh;
+  background-Color: #8a2be2 ;
+  border-radius: 4px;
+  border: none;
+  color: white;
+  
+}
+
+
+
